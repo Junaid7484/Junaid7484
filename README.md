@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=Building+scalable+full-stack+architectures;Crafting+clean%2C+interactive+user+interfaces;Specializing+in+Node.js%2C+Express%2C+and+MongoDB" alt="Typing SVG" />
   </a>
   <br/><br/>
-  <!-- Social Badges (Pill style with custom borders) -->
+  <!-- Social Badges -->
   <a href="https://linkedin.com/in/junaid-alam7484" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -54,25 +54,20 @@
 </div>
 ---
 ### 📈 GitHub Analytics & Growth
+<p align="center">
+  <!-- Core Overview Stats -->
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Junaid7484&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38B2AC&icon_color=38B2AC" alt="GitHub Stats" />
+  &nbsp;
+  <!-- Streak Stats -->
+  <img height="165em" src="https://streak-stats.demolab.com/?user=Junaid7484&theme=tokyonight&hide_border=true&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <!-- Top Languages Compact -->
+  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Junaid7484&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38B2AC" alt="Top Languages" />
+</p>
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Junaid7484&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://streak-stats.demolab.com/?user=Junaid7484&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid7484&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br/>
   <!-- Trophies Strip -->
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Junaid7484&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Junaid7484&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 ---
 <div align="center">
