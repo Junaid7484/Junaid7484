@@ -69,8 +69,8 @@
   <!-- Core Overview Stats -->
   <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Junaid7484&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38B2AC&icon_color=38B2AC" alt="GitHub Stats" />
   &nbsp;
-  <!-- Streak Stats (Active endpoint & corrected parameter) -->
-  <img height="165em" src="https://streak-stats.demolab.com?user=Junaid7484&theme=tokyonight&hide_border=true&ring=38B2AC&fire=38B2AC&currStreakLabelColor=38B2AC" alt="GitHub Streak" />
+  <!-- Fast Streak Mirror -->
+  <img height="165em" src="https://github-readme-streak-stats-five.vercel.app/?user=Junaid7484&theme=tokyonight&hide_border=true&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -79,8 +79,8 @@
 </p>
 
 <div align="center">
-  <!-- Trophies Strip (Active verified theme endpoint) -->
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Junaid7484&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <!-- High-Uptime Dynamic Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Junaid7484&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
