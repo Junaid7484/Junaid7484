@@ -57,7 +57,7 @@
 | **Frontend & UI** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) |
 | **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/Nodemon-323330?style=flat-square&logo=nodemon&logoColor=BBDEAD) |
 | **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Cloud & DevOps** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
+| **Cloud & DevOps** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.vercel.app/api?username=Junaid7484) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
 
 </div>
 
@@ -66,20 +66,20 @@
 ### 📈 GitHub Analytics & Growth
 
 <p align="center">
-  <!-- Core Overview Stats -->
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Junaid7484&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38B2AC&icon_color=38B2AC" alt="GitHub Stats" />
+  <!-- GitHub Overall Stats -->
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Junaid7484&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38B2AC&icon_color=38B2AC" alt="GitHub Stats" />
   &nbsp;
-  <!-- Fast Streak Mirror -->
-  <img height="165em" src="https://github-readme-streak-stats-five.vercel.app/?user=Junaid7484&theme=tokyonight&hide_border=true&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" />
+  <!-- Primary Stable Streak Stats Endpoint -->
+  <img height="165em" src="https://streak-stats.demolab.com?user=Junaid7484&theme=tokyonight&hide_border=true&ring=38B2AC&fire=38B2AC&currStreakNum=38B2AC" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <!-- Top Languages Compact -->
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Junaid7484&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38B2AC" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid7484&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38B2AC" alt="Top Languages" />
 </p>
 
 <div align="center">
-  <!-- High-Uptime Dynamic Activity Graph -->
+  <!-- Dynamic Contribution & Activity Graph -->
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Junaid7484&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
