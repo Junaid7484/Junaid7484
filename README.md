@@ -1,11 +1,13 @@
 <div align="center">
   <!-- Dynamic Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35,49&height=220&section=header&text=Junaid%20Alam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20MERN%20Specialist%20%7C%20Builder&descFontSize=18&descAlignY=58&descAlign=50" width="100%" alt="Header" />
+
   <!-- Animated Typing Tagline -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=Building+scalable+full-stack+architectures;Crafting+clean%2C+interactive+user+interfaces;Specializing+in+Node.js%2C+Express%2C+and+MongoDB" alt="Typing SVG" />
   </a>
   <br/><br/>
+
   <!-- Social Badges -->
   <a href="https://linkedin.com/in/junaid-alam7484" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -19,8 +21,11 @@
     <img src="https://img.shields.io/badge/QuickPlot-Live%20Project-2563EB?style=flat-square&logo=render&logoColor=white" alt="QuickPlot Demo" />
   </a>
 </div>
+
 <br/>
+
 ### 🚀 Featured Project
+
 <table>
   <tr>
     <td width="100%">
@@ -39,8 +44,11 @@
     </td>
   </tr>
 </table>
+
 ---
+
 ### 🛠️ Tech Stack & Tooling
+
 <div align="center">
 
 | Area | Technologies & Tools |
@@ -52,30 +60,39 @@
 | **Cloud & DevOps** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
 
 </div>
+
 ---
+
 ### 📈 GitHub Analytics & Growth
+
 <p align="center">
   <!-- Core Overview Stats -->
   <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Junaid7484&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38B2AC&icon_color=38B2AC" alt="GitHub Stats" />
   &nbsp;
-  <!-- Streak Stats -->
-  <img height="165em" src="https://streak-stats.demolab.com/?user=Junaid7484&theme=tokyonight&hide_border=true&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="GitHub Streak" />
+  <!-- Streak Stats (Active endpoint & corrected parameter) -->
+  <img height="165em" src="https://streak-stats.demolab.com?user=Junaid7484&theme=tokyonight&hide_border=true&ring=38B2AC&fire=38B2AC&currStreakLabelColor=38B2AC" alt="GitHub Streak" />
 </p>
+
 <p align="center">
   <!-- Top Languages Compact -->
   <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Junaid7484&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38B2AC" alt="Top Languages" />
 </p>
+
 <div align="center">
-  <!-- Trophies Strip -->
+  <!-- Trophies Strip (Active verified theme endpoint) -->
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Junaid7484&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
+
 ---
+
 <div align="center">
   <!-- Dynamic Quote Card -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
   <br/><br/>
+
   <!-- Profile View Counter Footer -->
   <img src="https://komarev.com/ghpvc/?username=Junaid7484&style=flat-square&color=38B2AC&label=PROFILE+VIEWS" alt="Profile Views" />
+
   <!-- Bottom Wave Decoration -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35,49&height=100&section=footer" width="100%" alt="Footer" />
 </div>
