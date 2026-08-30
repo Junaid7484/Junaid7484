@@ -9,6 +9,10 @@
   <br/><br/>
 
   <!-- Social Badges -->
+  <a href="https://portfolio-jpqx.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-🌐_Visit_Website-38B2AC?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://linkedin.com/in/junaid-alam7484" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -37,7 +41,7 @@
         <b>Tech:</b> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>EJS</code> <code>TailwindCSS</code> <code>Render</code>
       </p>
       <p align="left">
-        <a href="https://quickplot.onrender.com/quickplots">
+        <a href="https://quickplot.onrender.com/quickplots" target="_blank">
           <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
         </a>
       </p>
