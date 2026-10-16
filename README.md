@@ -1,97 +1,124 @@
 <div align="center">
-  <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35,49&height=220&section=header&text=Junaid%20Alam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20MERN%20Specialist%20%7C%20Builder&descFontSize=18&descAlignY=58&descAlign=50" width="100%" alt="Header" />
 
-  <!-- Animated Typing Tagline -->
+  <!-- Interactive Dynamic Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,19,9,2&height=220&section=header&text=JUNAID%20ALAM&fontSize=48&fontAlignY=36&desc=%E2%9A%A1%20FULL-STACK%20DEVELOPER%20%7C%20MERN%20ENGINEER%20%E2%9A%A1&descFontSize=17&descAlignY=58&animation=twinkling" width="100%" />
+
+  <!-- Animated Dynamic Role Subheading -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=Building+scalable+full-stack+architectures;Crafting+clean%2C+interactive+user+interfaces;Specializing+in+Node.js%2C+Express%2C+and+MongoDB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=900&color=00FFA3&center=true&vCenter=true&width=580&lines=%3E_Architecting+high-throughput+MERN+systems;%3E_Crafting+clean%2C+declarative+interfaces;%3E_Available+for+SDE+internships+%26+new-grad+roles" alt="Typing SVG" />
   </a>
   <br/><br/>
 
-  <!-- Social Badges -->
-  <a href="https://portfolio-jpqx.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-🌐_Visit_Website-38B2AC?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
+  <!-- Floating Glow Badges -->
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="https://linkedin.com/in/junaid-alam7484" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
   &nbsp;
-  <a href="mailto:Junaid0808alam@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://quickplot.onrender.com/quickplots" target="_blank">
-    <img src="https://img.shields.io/badge/QuickPlot-Live%20Project-2563EB?style=flat-square&logo=render&logoColor=white" alt="QuickPlot Demo" />
-  </a>
+  <a href="https://YOUR_RESUME_URL"><img src="https://img.shields.io/badge/Resume-10B981?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
+
+  <br/><br/>
+
+  <p>
+    <img src="https://img.shields.io/badge/Graduation-2027-blue?style=flat-square&color=2563EB" />
+    <img src="https://img.shields.io/badge/Core_Stack-MERN-00FFA3?style=flat-square&labelColor=0f172a&color=00FFA3" />
+    <img src="https://img.shields.io/badge/Status-Actively_Interviewing-f59e0b?style=flat-square&labelColor=0f172a" />
+  </p>
+
 </div>
 
-<br/>
+---
 
-### 🚀 Featured Project
+### 🌌 Tech Arsenal
 
-<table>
+<div align="center">
+  <b>Frontend Ecosystem</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,materialui,js,html,css&theme=dark" /><br/><br/>
+  <b>Backend, Database & Networking</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" /><br/><br/>
+  <b>DevOps, Cloud & Tooling</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render&theme=dark" />
+</div>
+
+---
+
+### ⚡ Selected Engineering Projects
+
+<table align="center" width="100%">
   <tr>
-    <td width="100%">
-      <h3 align="left">🏡 QuickPlot — Real Estate & Land Dealing Platform</h3>
-      <p align="left">
-        A full-featured property marketplace platform enabling users to browse, evaluate, and list land parcels with interactive maps, verified listings, and secure data routing.
+    <td width="50%" valign="top" style="border: 1px solid #1e293b; padding: 18px; border-radius: 12px; background: #0f172a;">
+      <h3 style="margin-top: 0; color: #38bdf8;">🏡 QuickPlot</h3>
+      <p style="color: #94a3b8; font-size: 13.5px; line-height: 1.5;">
+        Full-stack real estate marketplace featuring geospatial Mapbox queries, multi-filter bounding box search, and property listing pipelines.
       </p>
-      <p align="left">
-        <b>Tech:</b> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>EJS</code> <code>TailwindCSS</code> <code>Render</code>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
       </p>
-      <p align="left">
-        <a href="https://quickplot.onrender.com/quickplots" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Demo" />
-        </a>
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/quickplot"><b>Inspect Code ↗</b></a> &nbsp;|&nbsp; 
+      <a href="https://quickplot-demo.com"><b>Live Preview ↗</b></a>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #1e293b; padding: 18px; border-radius: 12px; background: #0f172a;">
+      <h3 style="margin-top: 0; color: #a855f7;">📈 Zerodha Clone</h3>
+      <p style="color: #94a3b8; font-size: 13.5px; line-height: 1.5;">
+        Trading dashboard emulating low-latency order execution, portfolio holdings, daily P&L calculation, and dynamic stock watchlists.
       </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/zerodha-clone"><b>Inspect Code ↗</b></a> &nbsp;|&nbsp; 
+      <a href="https://zerodha-demo.com"><b>Live Preview ↗</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="border: 1px solid #1e293b; padding: 18px; border-radius: 12px; background: #0f172a;">
+      <h3 style="margin-top: 0; color: #34d399;">⚡ SparkNet</h3>
+      <p style="color: #94a3b8; font-size: 13.5px; line-height: 1.5;">
+        Visual curation & social discovery platform engineered with responsive masonry grids, low-latency asset uploads, and user collections.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/sparknet"><b>Inspect Code ↗</b></a> &nbsp;|&nbsp; 
+      <a href="https://sparknet-demo.com"><b>Live Preview ↗</b></a>
+    </td>
+    <td width="50%" valign="top" style="border: 1px solid #1e293b; padding: 18px; border-radius: 12px; background: #0f172a;">
+      <h3 style="margin-top: 0; color: #f43f5e;">🔧 FIXNEAR</h3>
+      <p style="color: #94a3b8; font-size: 13.5px; line-height: 1.5;">
+        Hyperlocal service booking hub managing client appointments, operational admin control panels, and vendor verification workflows.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/REST_API-orange?style=flat-square" />
+      </p>
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/fixnear"><b>Inspect Code ↗</b></a> &nbsp;|&nbsp; 
+      <a href="https://fixnear-demo.com"><b>Live Preview ↗</b></a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 📊 System Activity & Stats
 
 <div align="center">
-
-| Area | Technologies & Tools |
-| :--- | :--- |
-| **Core Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Frontend & UI** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Material UI](https://img.shields.io/badge/MUI-0081CB?style=flat-square&logo=mui&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) |
-| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/Nodemon-323330?style=flat-square&logo=nodemon&logoColor=BBDEAD) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
-| **Cloud & DevOps** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=00FFA3" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=00FFA3&currStreakLabel=00FFA3" width="48%" />
 </div>
 
----
-
-### 📈 GitHub Analytics & Growth
-
-<p align="center">
-  <!-- Core Overview Stats -->
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api?username=Junaid7484&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38B2AC&icon_color=38B2AC" alt="GitHub Stats" />
-  &nbsp;
-  <!-- Top Languages Compact -->
-  <img height="165em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Junaid7484&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=38B2AC" alt="Top Languages" />
-</p>
-
 <div align="center">
-  <!-- Dynamic Contribution & Activity Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Junaid7484&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" width="48%" />
 </div>
 
----
+<br/>
 
 <div align="center">
-  <!-- Dynamic Quote Card -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-  <br/><br/>
-
-  <!-- Profile View Counter Footer -->
-  <img src="https://komarev.com/ghpvc/?username=Junaid7484&style=flat-square&color=38B2AC&label=PROFILE+VIEWS" alt="Profile Views" />
-
-  <!-- Bottom Wave Decoration -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,35,49&height=100&section=footer" width="100%" alt="Footer" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00FFA3&style=flat-square" />
 </div>
