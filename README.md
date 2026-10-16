@@ -70,7 +70,7 @@
         <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
       </p>
       <a href="https://github.com/Junaid7484/QuickPlot"><b>Inspect Code ↗</b></a> &nbsp;|&nbsp; 
-      <a href="https://quickplot-demo.com"><b>Live Preview ↗</b></a>
+      <a href="https://quickplot.onrender.com"><b>Live Preview ↗</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>📈 Zerodha Clone</h3>
