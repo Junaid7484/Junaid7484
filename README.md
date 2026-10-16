@@ -1,66 +1,71 @@
+<h1 align="left">Hey, I'm Junaid 👋</h1>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>I build performant web applications across the full stack with the <b>MERN stack</b>. Currently in my final year of BCA, focusing on scalable API design and responsive client architectures.</p>
+      
+      <p>
+        🌱 &nbsp;Exploring microservices & cloud deployments<br/>
+        💼 &nbsp;Open to full-stack & backend developer roles<br/>
+        📫 &nbsp;Reach me at: <code>your.email@example.com</code>
+      </p>
+
+      <p>
+        <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+        <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-10B981?style=flat-square&logo=safari&logoColor=white" /></a>
+        <a href="https://twitter.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=x&logoColor=white" /></a>
+      </p>
+    </td>
+    <td width="40%" valign="center" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&hide_border=true&hide_title=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+### Core Stack
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | `JavaScript` `React.js` `Tailwind CSS` `Bootstrap` `Material UI` `HTML5/CSS3` |
+| **Backend** | `Node.js` `Express.js` `REST APIs` `JWT Authentication` |
+| **Database** | `MongoDB` `Mongoose` |
+| **Workflow & Cloud** | `Git` `GitHub` `Postman` `Vercel` `Render` `VS Code` |
+
+### Key Repositories
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>🏡 QuickPlot</b><br/>
+      Property listing platform with location search and interactive mapping.<br/><br/>
+      <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Mapbox</code><br/><br/>
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/quickplot">View Repository →</a>
+    </td>
+    <td width="50%">
+      <b>📈 Zerodha Clone</b><br/>
+      Trading interface featuring holdings, position tracking, and live watchlists.<br/><br/>
+      <code>React</code> <code>Express</code> <code>RESTful APIs</code><br/><br/>
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/zerodha-clone">View Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>⚡ SparkNet</b><br/>
+      Social discovery application focused on fast image grids and responsive feeds.<br/><br/>
+      <code>React</code> <code>Tailwind CSS</code> <code>Node.js</code><br/><br/>
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/sparknet">View Repository →</a>
+    </td>
+    <td width="50%">
+      <b>🔧 FIXNEAR</b><br/>
+      Local service marketplace featuring administrative management dashboards.<br/><br/>
+      <code>Node.js</code> <code>Express</code> <code>MongoDB</code><br/><br/>
+      <a href="https://github.com/YOUR_GITHUB_USERNAME/fixnear">View Repository →</a>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,23&height=200&section=header&text=Hi%20there,%20I'm%20Junaid%20Alam%20👋&fontSize=42&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20|%20MERN%20Enthusiast&descFontSize=20&descAlignY=60&animation=fadeIn" width="100%" />
-
-  <!-- Typewriter Effect Subheading -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+applications;Crafting+clean,+responsive+UIs;Exploring+modern+web+architectures;Open+to+opportunities+%26+collaborations!" alt="Typing SVG" />
-  </a>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  </p>
-</div>
-
----
-
-### 🚀 About Me
-
-- 💻 **Focus:** Building full-stack web applications using the **MERN** stack (`MongoDB`, `Express.js`, `React`, `Node.js`).
-- 🎓 **Background:** Final-year **Bachelor of Computer Applications (BCA)** student.
-- 🛠️ **Current Pursuits:** Advancing system design concepts, optimizing RESTful APIs, and looking for developer internship opportunities.
-- ⚡ **Fun Fact:** I believe clean folder architecture and intuitive UI components save hours of debugging.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <b>Frontend</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap,materialui" /><br/><br/>
-  <b>Backend & Database</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman" /><br/><br/>
-  <b>Tools & Deployment</b><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" />
-</p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[QuickPlot](https://github.com/YOUR_GITHUB_USERNAME/quickplot)** | Real estate and property listing platform featuring location queries and interactive mapping. | `React` `Node.js` `Express` `MongoDB` `Mapbox` |
-| **[SparkNet](https://github.com/YOUR_GITHUB_USERNAME/sparknet)** | Visual discovery and content-sharing social web application with responsive feeds. | `React` `Tailwind CSS` `Node.js` `MongoDB` |
-| **[Zerodha Clone](https://github.com/YOUR_GITHUB_USERNAME/zerodha-clone)** | Trading platform dashboard showing user watchlists, portfolio holdings, and positions. | `React` `Express.js` `REST APIs` |
-| **[FixNear](https://github.com/YOUR_GITHUB_USERNAME/fixnear)** | Local service booking and provider management platform with administrative panels. | `Node.js` `Express` `MongoDB` `Tailwind` |
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=nord&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord&hide_border=true" width="48%" />
 </div>
