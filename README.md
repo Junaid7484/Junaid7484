@@ -29,11 +29,18 @@
 </div>
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Junaid7484/Junaid7484/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Junaid7484/Junaid7484/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Junaid7484/Junaid7484/output/github-contribution-grid-snake.svg">
-</picture>
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Junaid7484/Junaid7484/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Junaid7484/Junaid7484/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Junaid7484/Junaid7484/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+---
 
 ### 🌌 Tech Arsenal
 
@@ -52,9 +59,9 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #1e293b; padding: 18px; border-radius: 12px; background: #0f172a;">
-      <h3 style="margin-top: 0; color: #38bdf8;">🏡 QuickPlot</h3>
-      <p style="color: #94a3b8; font-size: 13.5px; line-height: 1.5;">
+    <td width="50%" valign="top">
+      <h3>🏡 QuickPlot</h3>
+      <p>
         Full-stack real estate marketplace featuring geospatial Mapbox queries, multi-filter bounding box search, and property listing pipelines.
       </p>
       <p>
@@ -62,12 +69,12 @@
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white" />
       </p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/quickplot"><b>Inspect Code ↗</b></a> &nbsp;|&nbsp; 
+      <a href="https://github.com/Junaid7484/QuickPlot"><b>Inspect Code ↗</b></a> &nbsp;|&nbsp; 
       <a href="https://quickplot-demo.com"><b>Live Preview ↗</b></a>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #1e293b; padding: 18px; border-radius: 12px; background: #0f172a;">
-      <h3 style="margin-top: 0; color: #a855f7;">📈 Zerodha Clone</h3>
-      <p style="color: #94a3b8; font-size: 13.5px; line-height: 1.5;">
+    <td width="50%" valign="top">
+      <h3>📈 Zerodha Clone</h3>
+      <p>
         Trading dashboard emulating low-latency order execution, portfolio holdings, daily P&L calculation, and dynamic stock watchlists.
       </p>
       <p>
@@ -75,14 +82,14 @@
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       </p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/zerodha-clone"><b>Inspect Code ↗</b></a> &nbsp;|&nbsp; 
+      <a href="https://github.com/Junaid7484/Zerodha-Clone"><b>Inspect Code ↗</b></a> &nbsp;|&nbsp; 
       <a href="https://zerodha-demo.com"><b>Live Preview ↗</b></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="border: 1px solid #1e293b; padding: 18px; border-radius: 12px; background: #0f172a;">
-      <h3 style="margin-top: 0; color: #34d399;">⚡ SparkNet</h3>
-      <p style="color: #94a3b8; font-size: 13.5px; line-height: 1.5;">
+    <td width="50%" valign="top">
+      <h3>⚡ SparkNet</h3>
+      <p>
         Visual curation & social discovery platform engineered with responsive masonry grids, low-latency asset uploads, and user collections.
       </p>
       <p>
@@ -90,12 +97,12 @@
         <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/sparknet"><b>Inspect Code ↗</b></a> &nbsp;|&nbsp; 
+      <a href="https://github.com/Junaid7484"><b>Inspect Code ↗</b></a> &nbsp;|&nbsp; 
       <a href="https://sparknet-demo.com"><b>Live Preview ↗</b></a>
     </td>
-    <td width="50%" valign="top" style="border: 1px solid #1e293b; padding: 18px; border-radius: 12px; background: #0f172a;">
-      <h3 style="margin-top: 0; color: #f43f5e;">🔧 FIXNEAR</h3>
-      <p style="color: #94a3b8; font-size: 13.5px; line-height: 1.5;">
+    <td width="50%" valign="top">
+      <h3>🔧 FIXNEAR</h3>
+      <p>
         Hyperlocal service booking hub managing client appointments, operational admin control panels, and vendor verification workflows.
       </p>
       <p>
@@ -103,7 +110,7 @@
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/REST_API-orange?style=flat-square" />
       </p>
-      <a href="https://github.com/YOUR_GITHUB_USERNAME/fixnear"><b>Inspect Code ↗</b></a> &nbsp;|&nbsp; 
+      <a href="https://github.com/Junaid7484"><b>Inspect Code ↗</b></a> &nbsp;|&nbsp; 
       <a href="https://fixnear-demo.com"><b>Live Preview ↗</b></a>
     </td>
   </tr>
@@ -114,19 +121,14 @@
 ### 📊 System Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=00FFA3" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=00FFA3&currStreakLabel=00FFA3" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Junaid7484&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8&icon_color=00FFA3" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Junaid7484&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=00FFA3&currStreakLabel=00FFA3" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid7484&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=94a3b8" width="55%" />
+</p>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=00FFA3&style=flat-square" />
-</div>
-### 🐍 Contribution Activity
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Junaid7484&label=PROFILE%20VIEWS&color=00FFA3&style=flat-square" alt="Profile Views" />
+</p>
