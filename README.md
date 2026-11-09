@@ -110,8 +110,8 @@
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
         <img src="https://img.shields.io/badge/REST_API-orange?style=flat-square" />
       </p>
-      <a href="https://github.com/Junaid7484"><b>Inspect Code ↗</b></a> &nbsp;|&nbsp; 
-      <a href="https://fixnear-demo.com"><b>Live Preview ↗</b></a>
+      <a href="https://github.com/Junaid7484/FIXNEAR"><b>Inspect Code ↗</b></a> &nbsp;|&nbsp; 
+      <a href="https://fixnear-two.vercel.app/"><b>Live Preview ↗</b></a>
     </td>
   </tr>
 </table>
